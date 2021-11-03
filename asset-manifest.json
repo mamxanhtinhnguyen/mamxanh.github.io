@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mamxanh/static/css/main.bf5ce99c.chunk.css",
+    "main.js": "/mamxanh/static/js/main.3958ad69.chunk.js",
+    "main.js.map": "/mamxanh/static/js/main.3958ad69.chunk.js.map",
+    "runtime-main.js": "/mamxanh/static/js/runtime-main.f6345014.js",
+    "runtime-main.js.map": "/mamxanh/static/js/runtime-main.f6345014.js.map",
+    "static/js/2.2ad937ee.chunk.js": "/mamxanh/static/js/2.2ad937ee.chunk.js",
+    "static/js/2.2ad937ee.chunk.js.map": "/mamxanh/static/js/2.2ad937ee.chunk.js.map",
+    "static/js/3.39988103.chunk.js": "/mamxanh/static/js/3.39988103.chunk.js",
+    "static/js/3.39988103.chunk.js.map": "/mamxanh/static/js/3.39988103.chunk.js.map",
+    "index.html": "/mamxanh/index.html",
+    "static/css/main.bf5ce99c.chunk.css.map": "/mamxanh/static/css/main.bf5ce99c.chunk.css.map",
+    "static/js/2.2ad937ee.chunk.js.LICENSE.txt": "/mamxanh/static/js/2.2ad937ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6345014.js",
+    "static/js/2.2ad937ee.chunk.js",
+    "static/css/main.bf5ce99c.chunk.css",
+    "static/js/main.3958ad69.chunk.js"
+  ]
+}
